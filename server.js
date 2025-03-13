@@ -12,7 +12,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 
 // Rota para página inicial
-app.length('/', (req, res) => {
+app.get('/', (req, res) => {
     res.render('index', { title: 'Mercado Smart' });
 })
 
