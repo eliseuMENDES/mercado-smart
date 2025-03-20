@@ -1,12 +1,9 @@
-* {
-	/* margin: 0; */
-	/* padding: 0; */
-	/* box-sizing: border-box; */
+.navbar-brand {
+	font-weight: bold;
+	font-size: 1.5rem;
 }
 
-body {
-	font-family: Arial, sans-serif;
-	line-height: 1.6;
-	background-color: #f4f4f4;
-	color: #333;
+.navbar-nav .nav-link {
+	font-size: 1.1rem;
+	margin-right: 15px;
 }
