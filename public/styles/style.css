@@ -1,3 +1,9 @@
+.header {
+	background: linear-gradient(90deg, #ff7e5f, #feb47b);
+	padding: 20px;
+	color: white;
+}
+
 .card-img-top {
     height: auto; /* Defina a altura desejada */
     width: 100%; /* Faz a imagem ocupar 100% da largura do card */    
