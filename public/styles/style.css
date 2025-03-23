@@ -1,7 +1,12 @@
-.header {
-	background: linear-gradient(90deg, #ff7e5f, #feb47b);
-	padding: 20px;
-	color: white;
+header {
+	background: linear-gradient(90deg, #5fa2ff, #81fe7b);
+	color: #fff;
+	padding: 10px;
+	text-align: center;	
+}
+
+nav {
+	background: linear-gradient(90deg, #497cd5, #f33380)
 }
 
 .card-img-top {
